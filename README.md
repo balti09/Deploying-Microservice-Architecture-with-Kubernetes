@@ -7,7 +7,7 @@ AWS Account
 DockerHub account  
 
 
-## Microservice Application Architucture:  
+## Microservice Application Architecture:  
 ![architecture](https://user-images.githubusercontent.com/72893228/210557254-ce0a5f35-92ff-4132-ae86-d35a224d17bb.png)
 
 
